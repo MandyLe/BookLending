@@ -22,3 +22,8 @@ var str = 'x\uD83D\uDE80y';
 var keys = Object.keys,
     values = Object.values,
     entries = Object.entries;
+
+function addNum(num){
+    console.log(num+num);
+}
+add(2);
