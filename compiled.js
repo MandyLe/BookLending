@@ -34,3 +34,9 @@ function cal(num){
 }
 
 cal(10);
+
+function test(){
+  console.log(1);
+}
+
+test();
