@@ -27,3 +27,10 @@ function addNum(num){
     console.log(num+num);
 }
 add(2);
+
+function cal(num){
+  let num = num*num;
+  console.log(num);
+}
+
+cal(10);
